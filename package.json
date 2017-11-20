@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "run"
+    "start": "webpack-dev-server --hot"
   },
   "repository": {
     "type": "git",
